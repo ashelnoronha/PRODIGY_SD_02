@@ -1,2 +1,11 @@
 # PRODIGY_SD_02
-A number guessing game where the user keeps guessing until they find the correct number. The program instantly notifies when the right guess is made and displays the total number of attempts taken.
+🎯 Number Guessing Game (Python)
+📝 Description
+A fun and interactive number guessing game built with Python! The program randomly selects a number within a specified range, and the user keeps guessing until the correct number is found. After each guess, the program gives helpful feedback and displays the total number of attempts when the correct number is guessed.
+
+🚀 Features
+✔️ Random number generation
+✔️ Unlimited user attempts
+✔️ Real-time feedback
+✔️ Total attempts displayed upon success
+✔️ Simple and beginner-friendly Python code
